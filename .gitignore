@@ -1,0 +1,57 @@
+Skip to content
+Features
+Business
+Explore
+Marketplace
+Pricing
+
+Search
+
+Sign in or Sign up
+1 0 0 Rouliboy/brouilles
+ Code  Issues 0  Pull requests 0  Projects 0  Insights
+Join GitHub today
+GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+
+brouilles/.gitignore
+ab11662  on 21 Jul
+@Rouliboy Rouliboy gitignore checkstyle
+     
+24 lines (24 sloc)  290 Bytes
+hotspot.log
+*.iml
+*.ipr
+*.iws
+target/
+classes/
+/var
+pom.xml.versionsBackup
+test-output/
+/atlassian-ide-plugin.xml
+.idea
+.DS_Store
+.classpath
+.settings
+.project
+temp-testng-customsuite.xml
+test-output
+.DS_Store
+.externalToolBuilders
+*~
+gestionnaire-brouilles.log
+jvi.txt
+load.sql
+.checkstyle
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
